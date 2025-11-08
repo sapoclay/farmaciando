@@ -316,6 +316,8 @@ mvn spring-boot:run
 
 ## 🎯 Funcionalidades
 
+<img width="1919" height="1047" alt="pantalla-inicio" src="https://github.com/user-attachments/assets/c4cc68e6-ffce-42e3-8fe3-c7bd170db320" />
+
 ### 1. 📦 Gestión de Inventario
 
 - **Agregar/Editar/Eliminar** productos
@@ -435,6 +437,9 @@ mvn spring-boot:run
 **Modo:** FILE (persistente)  
 
 ### Credenciales:
+
+<img width="448" height="548" alt="login" src="https://github.com/user-attachments/assets/b54149a7-a7fc-4430-8453-817959e8c6ab" />
+
 ```properties
 URL: jdbc:h2:file:./data/farmacia_db
 Usuario: admin
