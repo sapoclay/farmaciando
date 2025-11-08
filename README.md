@@ -90,6 +90,8 @@ Sistema de escritorio multiplataforma para la gestión integral de farmacias, de
 
 ### Inicio de Sesión
 
+<img width="448" height="548" alt="login" src="https://github.com/user-attachments/assets/b54149a7-a7fc-4430-8453-817959e8c6ab" />
+
 Al ejecutar la aplicación, se muestra primero una **ventana de login** donde debes autenticarte:
 
 **Credenciales por defecto:**
@@ -437,8 +439,6 @@ mvn spring-boot:run
 **Modo:** FILE (persistente)  
 
 ### Credenciales:
-
-<img width="448" height="548" alt="login" src="https://github.com/user-attachments/assets/b54149a7-a7fc-4430-8453-817959e8c6ab" />
 
 ```properties
 URL: jdbc:h2:file:./data/farmacia_db
