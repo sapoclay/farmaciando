@@ -128,7 +128,7 @@ Al ejecutar la aplicación, se muestra primero una **ventana de login** donde de
 
 ---
 
-## ���️ Requisitos del Sistema
+## Requisitos del Sistema
 
 ### Software Necesario:
 
