@@ -1,0 +1,73 @@
+# ===================================
+# Java / Maven
+# ===================================
+target/
+*.class
+*.jar
+!iniciar-farmacia.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+# ===================================
+# Base de datos H2
+# ===================================
+data/*.mv.db
+data/*.trace.db
+*.db
+
+# ===================================
+# Logs
+# ===================================
+*.log
+logs/
+
+# ===================================
+# IDEs
+# ===================================
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# NetBeans
+nbproject/
+nbbuild/
+dist/
+nbdist/
+
+# VS Code
+.vscode/
+
+# ===================================
+# Sistema Operativo
+# ===================================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+
+# ===================================
+# Temporales
+# ===================================
+*.tmp
+*.bak
+*.swp
+*.swo
+*~.nib
+.cache
