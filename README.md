@@ -36,6 +36,9 @@ Sistema de escritorio multiplataforma para la gestión integral de farmacias, de
 - Todas las ventas asociadas al usuario que las realiza
 
 ✅ **Gestión de Usuarios (Solo Administrador)**
+
+<img width="1919" height="1050" alt="usuarios" src="https://github.com/user-attachments/assets/aa70a1ba-5389-4862-bc00-87bdb2942015" />
+
 - Crear, editar y desactivar usuarios
 - Cambiar contraseñas
 - Asignar roles (ADMIN / CAJERO)
@@ -61,6 +64,9 @@ Sistema de escritorio multiplataforma para la gestión integral de farmacias, de
 - Productos favoritos por cliente
 
 ✅ **Gestión de Proveedores y Pedidos**
+
+<img width="1917" height="1046" alt="proveedores" src="https://github.com/user-attachments/assets/0532fd92-0e18-4e92-af16-f563ec3b43a4" />
+
 - Base de datos completa de proveedores
 - Creación de pedidos de compra
 - Seguimiento de estado de pedidos
@@ -73,6 +79,9 @@ Sistema de escritorio multiplataforma para la gestión integral de farmacias, de
 - Actualización automática cada 2 minutos
 
 ✅ **Reportes y Gráficos**
+
+<img width="1917" height="1045" alt="reportes" src="https://github.com/user-attachments/assets/cf9c2082-8721-4367-b935-3ab828a4f114" />
+
 - Evolución de ventas diarias (gráfico de línea)
 - Top 10 productos más vendidos (gráfico de barras)
 - Distribución por método de pago (gráfico circular)
@@ -338,6 +347,8 @@ mvn spring-boot:run
 
 ### 2. 💰 Sistema de Ventas
 
+<img width="1917" height="1047" alt="ventas" src="https://github.com/user-attachments/assets/5f5662ac-19e0-451f-afa9-0ea20b3c284c" />
+
 - **Punto de venta** con búsqueda de productos
 - **Carrito de compras** con cantidades ajustables
 - **Métodos de pago:** Efectivo, Tarjeta, Transferencia
@@ -357,6 +368,8 @@ mvn spring-boot:run
 - **Productos favoritos** automáticos
 
 ### 4. 🏭 Gestión de Proveedores
+
+<img width="1917" height="1046" alt="proveedores" src="https://github.com/user-attachments/assets/ddd3b02d-b838-4552-a509-a25f209fd403" />
 
 - **Base de datos** completa de proveedores
 - **Información:** Razón social, contacto, condiciones comerciales
@@ -552,22 +565,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 - [JFreeChart](http://www.jfree.org/jfreechart/) - Generación de gráficos
 - [H2 Database](https://www.h2database.com/) - Base de datos embebida
 - [Lombok](https://projectlombok.org/) - Reducción de código boilerplate
-
----
-
-## 📸 Screenshots
-
-### Pantalla Principal
-![Inicio](docs/screenshots/inicio.png)
-
-### Gestión de Inventario
-![Inventario](docs/screenshots/inventario.png)
-
-### Sistema de Ventas
-![Ventas](docs/screenshots/ventas.png)
-
-### Reportes con Gráficos
-![Gráficos](docs/screenshots/graficos.png)
 
 ---
 
