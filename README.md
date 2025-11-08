@@ -540,9 +540,8 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**  
-📧 Email: tu.email@ejemplo.com  
-🐙 GitHub: [@tu-usuario](https://github.com/tu-usuario)
+📧 Email: admin@entreunosyceros.net  
+🐙 GitHub: [@sapoclay](https://github.com/sapoclay)
 
 ---
 
@@ -569,30 +568,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ### Reportes con Gráficos
 ![Gráficos](docs/screenshots/graficos.png)
-
----
-
-## 🔮 Roadmap
-
-- [ ] **Autenticación y roles** de usuario
-- [ ] **Backup automático** de base de datos
-- [ ] **Exportar reportes** a PDF/Excel
-- [ ] **Impresión** de tickets de venta
-- [ ] **API REST** para integración con otros sistemas
-- [ ] **Modo offline** con sincronización
-- [ ] **Módulo de contabilidad**
-- [ ] **Gestión de empleados** y turnos
-
----
-
-## 📞 Soporte
-
-¿Tienes problemas o preguntas?
-
-- 📖 Lee la [Guía de Inicio Rápido](INICIO_RAPIDO.md)
-- 🔧 Revisa la [Documentación del Launcher](README_LAUNCHER.md)
-- 🐛 Reporta bugs en [Issues](../../issues)
-- 💬 Discusiones en [Discussions](../../discussions)
 
 ---
 
